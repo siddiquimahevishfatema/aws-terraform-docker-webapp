@@ -46,13 +46,12 @@ AWS (EC2 & VPC) - Cloud Hosting infrastructure
 Git / GitHub - Version Control
 
 
+---
 
 
-![Application Output](images/img9.png)
-![Application Output](images/img10.png)
-![Application Output](images/img11.png)
-![Application Output](images/img12.png)
-![Application Output](images/img13.png)
+**Figure 1: EC2 Instance Provisioning Log**
+
+![EC2 Provisioning Log](images/img9.png)
 
 
 
