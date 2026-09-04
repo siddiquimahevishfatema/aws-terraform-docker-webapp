@@ -49,20 +49,11 @@ Git / GitHub - Version Control
 
 ## 🖼️ Screenshots
 
-**1. AWS Infrastructure Provisioning**
-![AWS SG Setup](images/img9.png)
-
-**2. Docker Container Running on EC2**
-![Docker Container](images/img10.png)
-
-**3. Spring Boot Web Page Access**
-![Live Web Application](images/img11.png)
-
-**4. Deployment Verification & Logs**
-![Application Logs](images/img12.png)
-
-**5. Architecture Output**
-![Final Output](images/img13.png)
+![Application Output](https://raw.githubusercontent.com/siddiquimahevishfatema/aws-terraform-docker-webapp/main/images/img9.png)
+![Application Output](https://raw.githubusercontent.com/siddiquimahevishfatema/aws-terraform-docker-webapp/main/images/img10.png)
+![Application Output](https://raw.githubusercontent.com/siddiquimahevishfatema/aws-terraform-docker-webapp/main/images/img11.png)
+![Application Output](https://raw.githubusercontent.com/siddiquimahevishfatema/aws-terraform-docker-webapp/main/images/img12.png)
+![Application Output](https://raw.githubusercontent.com/siddiquimahevishfatema/aws-terraform-docker-webapp/main/images/img13.png))
 
 
 
