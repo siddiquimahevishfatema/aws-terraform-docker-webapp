@@ -45,6 +45,7 @@ AWS (EC2 & VPC) - Cloud Hosting infrastructure
 
 Git / GitHub - Version Control
 
+---
 
 ## 🖼️ Screenshots
 
