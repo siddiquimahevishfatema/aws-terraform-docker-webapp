@@ -34,27 +34,23 @@ docker run -d -p 8080:8080 --name my-spring-app mahevish07/spring-web-app:v1.0
 
 Access the live application at: http://<YOUR_EC2_PUBLIC_IP>:8080
 
-🛠️ Key Technologies Used
-Java / Spring Boot - Application framework
+## 🛠️ Key Technologies Used
 
-Docker - Containerization tool
-
-Terraform - Infrastructure as Code (IaC)
-
-AWS (EC2 & VPC) - Cloud Hosting infrastructure
-
-Git / GitHub - Version Control
+* **Java / Spring Boot** - Application framework
+* **Docker** - Containerization tool
+* **Terraform** - Infrastructure as Code (IaC)
+* **AWS (EC2 & VPC)** - Cloud Hosting infrastructure
+* **Git / GitHub** - Version Control
 
 ---
 
 ## 🖼️ Screenshots
 
-![Application Output](https://raw.githubusercontent.com/siddiquimahevishfatema/aws-terraform-docker-webapp/main/images/img9.png)
-![Application Output](https://raw.githubusercontent.com/siddiquimahevishfatema/aws-terraform-docker-webapp/main/images/img10.png)
-![Application Output](https://raw.githubusercontent.com/siddiquimahevishfatema/aws-terraform-docker-webapp/main/images/img11.png)
-![Application Output](https://raw.githubusercontent.com/siddiquimahevishfatema/aws-terraform-docker-webapp/main/images/img12.png)
-![Application Output](https://raw.githubusercontent.com/siddiquimahevishfatema/aws-terraform-docker-webapp/main/images/img13.png))
-
+![Application Output](images/img9.png)
+![Application Output](images/img10.png)
+![Application Output](images/img11.png)
+![Application Output](images/img12.png)
+![Application Output](images/img13.png)
 
 
 
