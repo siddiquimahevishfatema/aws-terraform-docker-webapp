@@ -20,17 +20,27 @@ A professional DevOps workflow demonstrating the automated provisioning of AWS i
 ### Step 1: Build the Application
 ```bash
 ./mvnw clean package
+```
 
-Step 2: Build Docker Image
+
+### Step 2: Build Docker Image
+```bash
 docker build -t mahevish07/spring-web-app:v1.0 .
+```
 
-Step 3: Provision Infrastructure with Terraform
+### Step 3: Provision Infrastructure with Terraform
+```bash
 terraform init
 terraform plan
 terraform apply -auto-approve
+```
 
-Step 4: Run the Application Container
+
+### Step 4: Run the Application Container
+```bash
 docker run -d -p 8080:8080 --name my-spring-app mahevish07/spring-web-app:v1.0
+```
+
 
 Access the live application at: http://<YOUR_EC2_PUBLIC_IP>:8080
 
