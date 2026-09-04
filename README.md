@@ -45,7 +45,7 @@ AWS (EC2 & VPC) - Cloud Hosting infrastructure
 
 Git / GitHub - Version Control
 
----
+
 
 
 ![Application Output](images/img9.png)
@@ -54,6 +54,6 @@ Git / GitHub - Version Control
 ![Application Output](images/img12.png)
 ![Application Output](images/img13.png)
 
----
+
 
 
