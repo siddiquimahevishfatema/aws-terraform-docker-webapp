@@ -46,12 +46,22 @@ AWS (EC2 & VPC) - Cloud Hosting infrastructure
 Git / GitHub - Version Control
 
 
----
+## 🖼️ Screenshots
 
+**1. AWS Infrastructure Provisioning**
+![AWS SG Setup](images/img9.png)
 
-**Figure 1: EC2 Instance Provisioning Log**
+**2. Docker Container Running on EC2**
+![Docker Container](images/img10.png)
 
-![EC2 Provisioning Log](images/img9.png)
+**3. Spring Boot Web Page Access**
+![Live Web Application](images/img11.png)
+
+**4. Deployment Verification & Logs**
+![Application Logs](images/img12.png)
+
+**5. Architecture Output**
+![Final Output](images/img13.png)
 
 
 
