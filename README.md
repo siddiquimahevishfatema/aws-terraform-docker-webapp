@@ -56,7 +56,7 @@ Access the live application at: http://<YOUR_EC2_PUBLIC_IP>:8080
 
 ## 🖼️ Screenshots
 
-![Application Output](images/img9.png)
+
 ![Application Output](images/img10.png)
 ![Application Output](images/img11.png)
 ![Application Output](images/img12.png)
